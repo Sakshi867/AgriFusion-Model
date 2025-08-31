@@ -27,11 +27,4 @@ It supports *sustainable agriculture* by enabling data-driven decisions for bett
 3. Evaluation: accuracy, precision, recall, F1-score
 4. Deployment: Streamlit web app
 
----
 
-## 🚀 Usage
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/yourusername/crop-recommendation.git
-cd crop-recommendation
